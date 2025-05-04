@@ -16,13 +16,13 @@
 
     Data Source: Orders, Order Details, Pizzas, Pizza Types tables 
 
-    Dataset Size: ~21K orders 
+    Dataset Size: 500K+ orders 
 
  
 
 📁 Dataset Overview 
 
-            Mainly Used: 
+    Mainly Used: 
 
     orders: order ID, date, and time 
 
